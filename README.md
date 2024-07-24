@@ -30,3 +30,5 @@ GROQ_API_KEY=your_groq_api_key
 ```
 4. **run stramlit**
 streamlit run app.py
+
+<img src = "https://github.com/k17hawk/Conversational_Q-A/blob/main/Screenshot%20from%202024-07-24%2019-27-20.png" />
