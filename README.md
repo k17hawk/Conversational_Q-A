@@ -4,11 +4,14 @@ This project is a conversational Q&A application that leverages Retrieval-Augmen
 
 ## Features
 
+## Features
+
 - **Multiple PDF Uploads**: Users can upload multiple PDF files.
 - **Conversational Chatbot**: Engage in a conversation with the chatbot which uses the history of messages for context.
 - **RAG Integration**: Combines retrieval and generation for accurate and contextually relevant responses.
 - **Hugging Face Embeddings**: Utilizes embeddings from Hugging Face for document understanding.
 - **LLaMA3 LLM**: Employs LLaMA3 language model from Groq API for generating responses.
+- **Chroma Vector Database**: Stores and retrieves embeddings efficiently for fast query responses.
 
 ## Installation
 
