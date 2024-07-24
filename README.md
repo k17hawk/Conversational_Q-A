@@ -18,7 +18,7 @@ This project is a conversational Q&A application that leverages Retrieval-Augmen
 1. **Clone the repository**
    ```bash
    git clone https://github.com/k17hawk/Conversational_Q-A.git
-   cd rConversational_Q-A
+   cd Conversational_Q-A
    ```
 2. **Install the dependencies**
    pip install -r requirements.txt
