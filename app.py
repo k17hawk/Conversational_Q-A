@@ -21,7 +21,7 @@ embeddings=HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 
 ## set up Streamlit 
-st.title("Conversational RAG (llama3.1-7b) With PDF uplaods and chat history")
+st.title("Conversational RAG (llama-3.1-8b-instant) With PDF uplaods and chat history")
 st.write("Upload Pdf's and chat with their content")
 
 ## Input the Groq API Key
