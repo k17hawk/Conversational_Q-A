@@ -9,3 +9,8 @@ langchain_groq
 langchain-huggingface
 langchain_chroma
 pypdf
+arxiv
+wikipedia
+faiss-cpu
+langchainhub
+duckduckgo-search
