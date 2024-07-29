@@ -14,3 +14,8 @@ wikipedia
 faiss-cpu
 langchainhub
 duckduckgo-search
+mysql
+mysql-connector-python
+pinecone-client
+pinecone-text
+pinecone-notebooks

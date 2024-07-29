@@ -46,7 +46,7 @@ if prompt:=st.chat_input(placeholder="What is the thory of relativity?"):
     
     '''
 
-    llm=ChatGroq(api_key=api_key,model_name="llama-3.1-8b-instant",streaming=True)
+    llm=ChatGroq(groq_api_key=api_key,model_name="llama-3.1-8b-instant",streaming=True)
     tools=[search,arxiv,wiki]
 
     search_agent=initialize_agent(tools,llm,agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,handle_parsing_errors=True)
